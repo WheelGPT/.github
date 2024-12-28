@@ -6,9 +6,9 @@ WheelGPT is a [Trackmania](https://www.trackmania.com/) Twitch bot that was orig
 
 ## Projects
 
-Trackmania Plugin: https://openplanet.dev/plugin/wheelgpt-plugin
-WheelGPT Backend:
-WheelGPT Frontend:
+- Trackmania Plugin: https://github.com/WheelGPT/wheel-gpt-frontend ([OpenPlanet](https://openplanet.dev/plugin/wheelgpt-plugin))
+- WheelGPT Backend: https://github.com/WheelGPT/wheel-gpt-backend
+- WheelGPT Frontend: https://github.com/WheelGPT/wheel-gpt-frontend
 
 ## Features
 
